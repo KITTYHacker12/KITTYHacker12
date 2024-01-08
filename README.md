@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryana
-- 👀 I’m interested in Coding, Reading, Basketball, Calistenics 
-- 🌱 I’m currently learning Ruby & Swift
+- 👀 I’m interested in AI Coding.
+- 🌱 I’m currently learning Ruby and I'm making a AI Chatbot website.
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 You can reach me through my email: Aryana.Kularathne.12@gmail.com
 - Thanks.
